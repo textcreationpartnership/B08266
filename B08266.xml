@@ -1,0 +1,1066 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last advice of Mr. Ben. Alexander (late minister of West-Markham, in the county of Nottingham) to his children. In two parts. The contents follow.</title>
+            <author>Alexander, Ben. (Benjamin)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08266</idno>
+            <idno type="OCLC"> 80921636</idno>
+            <idno type="STC">Wing A912A</idno>
+            <idno type="STC">ESTC R172146</idno>
+            <idno type="EEBO-CITATION">80921636</idno>
+            <idno type="OCLC">ocm 80921636</idno>
+            <idno type="VID">191783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191783)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2887:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last advice of Mr. Ben. Alexander (late minister of West-Markham, in the county of Nottingham) to his children. In two parts. The contents follow.</title>
+                  <author>Alexander, Ben. (Benjamin)</author>
+               </titleStmt>
+               <extent>[4], 75 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Ekins, at the Gun in S. Pauls Churchyard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in the Peterborough Cathedral.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191783:1"/>
+            <pb facs="tcp:191783:1" rendition="simple:additions"/>
+            <p>The Laſt ADVICE OF M<hi rend="sup">r.</hi> 
+               <hi>BEN. ALEXANDER</hi> (late Miniſter of <hi>Weſt-Mark<g ref="char:EOLhyphen"/>ham,</hi> in the County of <hi>Nottingham</hi>) To His CHILDREN. In Two Parts.</p>
+            <p>The Contents follow.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 24.21.</hi>
+               </bibl> My Son, fear thou the Lord, and the King: <hi>and</hi> Meddle not with them that are given to change.</q>
+            <p>London, Printed for <hi>Nath. Ekins,</hi> at the Gun in S. <hi>Pauls</hi> Church-yard. 1659.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:191783:2" rendition="simple:additions"/>
+            <pb facs="tcp:191783:2"/>
+            <head>The CONTENTS OF This <hi>BOOK.</hi>
+            </head>
+            <list>
+               <head>In the firſt Part.</head>
+               <item>A <hi>Preface to</hi> Page 3.</item>
+               <item>
+                  <hi>A Catechiſticall Dialogue. to</hi> p. 13.</item>
+               <item>
+                  <hi>A Godly Form of Prayer to</hi> p. 26.</item>
+            </list>
+            <list>
+               <head>In the ſecond Part. Generall and Particular Advice.</head>
+               <item>1 <hi>In Religion, from</hi> p. 29. <hi>to</hi> p. 43.</item>
+               <item>2 <hi>Opinion, to</hi> p. 48.</item>
+               <pb facs="tcp:191783:3"/>
+               <item>3 <hi>Morality to</hi> p. 60.</item>
+               <item>4 <hi>Government to</hi> p. 65.</item>
+               <item>5 <hi>Study. to</hi> p. 72.</item>
+               <item>6 <hi>Mariage. to</hi> p. 75.</item>
+            </list>
+         </div>
+         <div type="preface">
+            <pb n="1" facs="tcp:191783:3"/>
+            <head>The ADVICE OF Mr. <hi>Benjamin Alexander</hi> To his CHILDREN.</head>
+            <p>IT was great joy which S. <hi>John</hi> (3. <hi>Epiſtle</hi> of <hi>John v.</hi> 4.) had, when he heard that <hi>Gaius</hi> and his Chil<g ref="char:EOLhyphen"/>dren did walk in the truth; and, if it be a part of the glory of Heaven, to know what is done on earth, my glory ſhould be excee<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:191783:4"/>glorious to know that you my Children did ſo: But whether I know it or know it not, if ye do ſo, ye are certain of the crown of glory. This which I have left you, concerneth you, firſt, as you ſtand to God, ſecondly, to men, thirdly, to your ſelves: the Lord bleſs you, &amp; theſe, and allo<g ref="char:EOLhyphen"/>ther helps of piety to you, that you may be glorious through holineſs here, and in holineſſe hereafter.</p>
+            <closer>
+               <signed>Your loving Father <hi>Ben. Alexander.</hi>
+               </signed> 
+               <dateline>
+                  <date>
+                     <hi>Auguſt</hi> 2. 1658.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="3" facs="tcp:191783:4"/>
+            <head>The firſt part.</head>
+            <sp>
+               <speaker>Sarah.</speaker>
+               <p>I pray thee, Brother, let us ſit under yonder green tree.</p>
+            </sp>
+            <sp>
+               <speaker>Ben.</speaker>
+               <p>
+                  <hi>I will, ſiſter, for it is pleaſant weather. But why wilt thou go to day?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Becauſe I am now at leiſure, and would ſpeak to thee in private.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:191783:5"/>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Let us go.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Pray tell me one thing, Brother?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Doubt not Siſter, I will if I can.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>I have ſeen my Father oft times on his knees in the hall, and ſometimes in the par<g ref="char:EOLhyphen"/>lour, what doth he mean by that?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>My Father goeth then to prayers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>To pray, what is that?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>It is a duty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Is there a duty due to any but my Father and Mo<g ref="char:EOLhyphen"/>ther?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Yea, Siſter, that there is.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>To whom?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>To God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What is he?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>A Spirit.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:191783:5"/>
+               <speaker>S.</speaker>
+               <p>A Spirit, what is that?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>A ſpirit is an intelligent ſubſtance without body or bodi<g ref="char:EOLhyphen"/>ly qualities.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What is God then?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>God is a Spirit, moſt ho<g ref="char:EOLhyphen"/>ly, moſt wiſe, eternall and infi<g ref="char:EOLhyphen"/>nite, in whom we live, move, and have our being.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>How many Gods are there?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>But one in eſſence, but three in perſons</hi> (viz.) <hi>Father, Son, and holy Ghoſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>How ſhal I come to know him?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Three waies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Which are they?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>By his works about us, his word unto us, his workings in us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What is his word?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>That which we call Scrip<g ref="char:EOLhyphen"/>ture.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:191783:6"/>
+               <speaker>S.</speaker>
+               <p>How came that to us?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>God breathed it into men, who ſpake as they were inſpired by the Spirit of the Holy Ghoſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What men were they?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Enoch, Moſes, the Pro<g ref="char:EOLhyphen"/>phets, Evangeliſts, Apoſtles,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What are his works?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>The Creation of the world, and all the things therein; as Sun, Moon, Cloud, Earth, Sea, and his Powerfull, and wiſe Pro<g ref="char:EOLhyphen"/>vidence, in upholding, and or<g ref="char:EOLhyphen"/>dering all things, till the end come.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What are his Workings?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Light, Love, Feare, and all affections, acts of Conſci<g ref="char:EOLhyphen"/>ence, Faith, and all Graces.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>But, why doth my Fa<g ref="char:EOLhyphen"/>ther Pray?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>That God would forgive
+<pb n="7" facs="tcp:191783:6"/>our ſins, and give all things ne<g ref="char:EOLhyphen"/>ceſſary for life and godlineſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What is ſin?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Sin is the tranſgreſſion of the Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>And, have I any ſin?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Yea, Siſter, and I alſo: for we were born in ſin, and are thereby enemies to God, and all goodneſs, and ſubject to ſick<g ref="char:EOLhyphen"/>neſses, croſſes, and loſſes in this life; yea, we muſt die alſo; and, without the ſpeciall Grace of God, are caſt away for ever and ever.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Thou telleſt me a ſtrange thing: how cometh this to paſs?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>By Adams ſin, in whoſe loynes we were, and ſo are liable to theſe puniſhments.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What did Adam do?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>He diſobeyed the Com<g ref="char:EOLhyphen"/>mands
+<pb n="8" facs="tcp:191783:7"/>of God, in eating the fruit, which he had forbid<g ref="char:EOLhyphen"/>den.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>How is that proved, good Brother?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>See</hi> Rom. 5.12. <hi>By one man ſin entered into the World, and death by him, and ſo death paſſed over all men, for that all have ſinned.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Is there any more Scrip<g ref="char:EOLhyphen"/>ture for it?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Yea, Siſter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Which are they?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Read</hi> Pſal. 1.51.5. <hi>I was ſhapen in iniquity, and in ſin did my Mother conceive,</hi> and Epeſ. 2.3. <hi>we are by nature the children of wrath, even as o<g ref="char:EOLhyphen"/>thers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Alas, Brother, what caſe are we then in?</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:191783:7"/>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>In the ſtate of damnation, and God may caſt us into hell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Hell, what is that?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>The place of torments, by fire and brimſtone, where is weeping, wailing, and gnaſhing of teeth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Theſe are torments, the Lord deliver us from them; is there a way to eſ<g ref="char:EOLhyphen"/>cape them?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Yea, Siſter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>How?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>By the Son of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Who is he, that I may know him?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Jeſus Chriſt, of whom you read in the Bible.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Is it he, of whom I read in my Pſalter, that was con<g ref="char:EOLhyphen"/>ceived by the Holy Ghoſt,
+<pb n="10" facs="tcp:191783:8"/>born of the Virgin Mary, ſuf<g ref="char:EOLhyphen"/>fered under Pontius Pilate, was crucified, dead and buri<g ref="char:EOLhyphen"/>ed, roſe again the third day, and ſhall come in the end of the world, to Judge the quick and the dead?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Yea, Siſter, the very ſame.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What is he, that I may ſee him?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>He is in heaven, thou canſt not ſee him yet.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>How then ſhall I know him?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>By mixing faith with thy reading of the Goſpel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What is Faith?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Faith is the gift of God, by which he giveth a mind to believe in Jeſus Chriſt, and a full perſwaſion ſettled, that
+<pb n="11" facs="tcp:191783:8"/>what he did, ſuffered in life or death, as it was ſufficient, ſo it was efficacious for my ſal<g ref="char:EOLhyphen"/>vation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>And, is there nothing but this Faith required?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Faith alone doth ſave us, but, this Faith never goeth a<g ref="char:EOLhyphen"/>lone, but, it worketh by love.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Which is the Rule of love?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>The ten Commandements.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>What is the ſumme of the Commandements?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Thou ſhalt love the Lord thy God, with all thy heart, and thy neighbour as thy ſelfe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Faith then is a perfect jewell: how ſhall I finde it?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>The Word begets it, Sacra<g ref="char:EOLhyphen"/>ments confirme it, Prayer
+<pb n="12" facs="tcp:191783:9"/>encreaſeth it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>And, will this bring me to Heaven?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Yea, if you perſevere to the end.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>But, you told me, I muſt die, how then can I go to Life?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Death is the doore to Life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Doth my ſoul die?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>No, that goeth to God that gave it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Then my body onely ſtayeth in the grave.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Yea.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>How ſhall that riſe?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>According to the Scrip<g ref="char:EOLhyphen"/>ture, by the Power of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>When?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>In the Reſurrection of the laſt day, when they which have
+<pb n="13" facs="tcp:191783:9"/>done good, ſhall go into everlaſt<g ref="char:EOLhyphen"/>ing life; but hypocrites, and unbelievers to eternall fire.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Will you help me to Pray?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Yea, Siſter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>I thank you Brother, how then muſt I pray?</p>
+            </sp>
+            <div type="prayer">
+               <pb n="14" facs="tcp:191783:10"/>
+               <head>The Prayer.</head>
+               <p>O Moſt glorious and graci<g ref="char:EOLhyphen"/>ous Lord God, the great Creator of Heaven and earth, and the wiſe Diſpoſer of all things, which thou haſt made for thine own glory, and for the good and welfare of all thy ſervants; we the moſt un<g ref="char:EOLhyphen"/>worthieſt of all thy ſervants, do deſire to proſtrate our ſelves before thy divine Majeſty, un<g ref="char:EOLhyphen"/>der an humble acknowledge<g ref="char:EOLhyphen"/>ment of thy goodneſſe, thy grace, thy truth, and faithful<g ref="char:EOLhyphen"/>neſſe; thy many mercies re<g ref="char:EOLhyphen"/>newed
+<pb n="15" facs="tcp:191783:10"/>and continued every day to us, and our great un<g ref="char:EOLhyphen"/>worthineſſe of the leaſt of any of them. We are not worthy of the crumbs that fall from thy Table; not onely becauſe we were born in ſin, but becauſe we have lived in ſin, and have daily added to our ſins, by the vanity of our thoughts, words, and actions, and the unſutable<g ref="char:EOLhyphen"/>neſſe of the whole man to all thy commands: we are igno<g ref="char:EOLhyphen"/>rant of them, yea we have digged to our ſelves Ciſterns that will hold no water, we have doubted of thy promiſes, and diſtruſted therein thy Covenants, broken thy Lawes, polluted thy Ordinances, pro<g ref="char:EOLhyphen"/>faned thy Sabbaths, abuſed thy mercies, ſlighted thy judg<g ref="char:EOLhyphen"/>ments,
+<pb n="16" facs="tcp:191783:11"/>ſinned againſt the light of our own Conſciences, a<g ref="char:EOLhyphen"/>gainſt Grace received, againſt the motions of thy holy Spirit, againſt Heaven, and in thy ſight, and we are not worthy to be called thy Children; and therfore moſt juſtly mayſt thou poure down thy diſpleaſure upon us, and empty the vials of thy wrath upon us and ours, making our lives bitter unto us, by diſeaſes and manifold croſſes, and deny us the frui<g ref="char:EOLhyphen"/>tion of thy ſelf, in glory here<g ref="char:EOLhyphen"/>after: and yet thou art juſt in all thy wayes, and holy in all thy works; for this we ab<g ref="char:EOLhyphen"/>hor our ſelves, and condemn our ſelves, (oh let us eſcap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the condemnation of thee our God): O enter not into judge<g ref="char:EOLhyphen"/>ment
+<pb n="17" facs="tcp:191783:11"/>with us, for, in thy ſight, ſhall no fleſh living be juſtifi<g ref="char:EOLhyphen"/>ed; our only Hope is on the Merits of Jeſus Chriſt, thy beloved Son our Saviour, of whom thou ſpakeſt from thy Excellent Glory, this is my beloved Son, in whom I am well pleaſed; in him, O Lord, be well pleaſed with us, and ſigne thy good pleaſure unto us, by a full, and free Par<g ref="char:EOLhyphen"/>don of all our ſins; Lord, 'tis a great Requeſt we begg of thee, and more then ſuch ſin<g ref="char:EOLhyphen"/>ners as we are, can hope for, to receive from thee, but, it was a great Price which was paid for us; not by corrupti<g ref="char:EOLhyphen"/>ble things, as ſilver, and gold, but, the moſt Precious blood of thine own Son; we tender
+<pb n="18" facs="tcp:191783:12"/>up to thee Lord Jeſus Chriſt, upon the Altar of a believing ſoule; O receive him for us, thou laid'ſt upon him the ini<g ref="char:EOLhyphen"/>quities of us all; that we through his ſtripes, might be healed; magnifie thy mercies towards us ſinners, and thy Grace, by paſſing by our tranſ<g ref="char:EOLhyphen"/>greſſions; and, Lord, Seale up thy Pardon, by giving thy holy Spirit unto us, in more inlarged fullneſſe, and let him comfort us, and beare wit<g ref="char:EOLhyphen"/>neſs to our ſpirits, that we are thine, and thou art ours, that being delivered from the bon<g ref="char:EOLhyphen"/>dage of ſin, we may cry out Abba Father.</p>
+               <p>O let thy Spirit bring graci<g ref="char:EOLhyphen"/>ous anſweres to our ſoules de<g ref="char:EOLhyphen"/>ſires, plead the cauſe of our
+<pb n="19" facs="tcp:191783:12"/>ſoules; ſhed abroad the love of thy ſelfe in our hearts, leading us into all neceſſary truths: guiding us by Grace here, that we may come o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Glory hereafter; And, as we deſire Pardon of ſins, ſo we pray thee ſubdue our ſins, mortifie thoſe corruptions that dwell in us, and oft times do tyrannize over us, and bring us to ſubjection to the Law of ſin, making us moſt wretch<g ref="char:EOLhyphen"/>ed creatures; O let it pittie thee, to ſee Satan rule over us, who takes us captive accor<g ref="char:EOLhyphen"/>ding to his will: bruiſe his power, limit his malice, ſhorten his chaine, divide his Kingdom, haſten his finall doome and condemnation; O let no Lord Rule over us, but
+<pb n="20" facs="tcp:191783:13"/>thy ſelfe, for thou art our on<g ref="char:EOLhyphen"/>ly God, and we will worſhip thee; And good Father, lead us not into temptation, deli<g ref="char:EOLhyphen"/>ver us from the evill thereof, ſtrengthen us againſt them, ſanctifie us under them, and let us finde the ſufficiency of thy Grace under them, to make us conquerors through Jeſus Chriſt; O make ſin loathſome to us, helpe us to looke upon ſin, as thou doſt looke upon it, to Judge it and condemne it, give us a ſight of it, in thy favour, a ſorrow for it, and a reſoluti<g ref="char:EOLhyphen"/>on againſt it; and hold us up by the Power of thy Spirit, through Faith to Salvation; Helpe us to derive our Joy from Heaven, and our com<g ref="char:EOLhyphen"/>forts
+<pb n="21" facs="tcp:191783:13"/>from above the cloudes, and to lay up our treaſure a<g ref="char:EOLhyphen"/>bove the ſun, where the moth, and the thiefe cannot eat thorough and ſteale; Make good thy Covenant to us, in giving us a new heart, and renewing our ſpirit in us, let the Scepter of Chriſt ſway over the whole man: our underſtandings, wills, af<g ref="char:EOLhyphen"/>fections, bringing all to obe<g ref="char:EOLhyphen"/>dience of the Law of Chriſt; Remember thy whole Church, what promiſes thou haſt for Jewes and Gentiles, in thy good time make out to them, bring in the out-caſt of Iſrael, and all from the high-wayes, that ſo thy houſe may be full; O let the Na<g ref="char:EOLhyphen"/>tions be thine inheritance,
+<pb n="22" facs="tcp:191783:14"/>and the utmoſt parts of the Earth be thy poſſeſſion; Re<g ref="char:EOLhyphen"/>member, and bleſſe theſe Na<g ref="char:EOLhyphen"/>tions wherein we live; O Lord keep up England from falling from thee, let it not languiſh, nor decay in God<g ref="char:EOLhyphen"/>lineſſe: and let not the wan<g ref="char:EOLhyphen"/>tonneſſe under the meanes of Grace in it, procure the want of Grace in it; thou haſt di<g ref="char:EOLhyphen"/>vided us, bring us together a<g ref="char:EOLhyphen"/>gain; O Pardon the ſins of our Nation, and helpe us, to keep our ſelves free from the pollution thereof; thou art a God of order, O ſet<g ref="char:EOLhyphen"/>tle order in thy Church, and unity among thy Saints; let ſuch as do erre out of igno<g ref="char:EOLhyphen"/>rance, learne knowledge, and ſuch as have ſinned a<g ref="char:EOLhyphen"/>gainſt
+<pb n="23" facs="tcp:191783:14"/>knowledge, finde Re<g ref="char:EOLhyphen"/>pentance; endue the Magi<g ref="char:EOLhyphen"/>ſtrates with the knowledge of thy Spirit of Grace and wiſdom, as well as with Pow<g ref="char:EOLhyphen"/>er, that we may live a peace<g ref="char:EOLhyphen"/>able and quiet life under them, in all godlineſſe and honeſty.</p>
+               <p>O let thy Miniſters be cloathed with holineſſe, write it on their breſt, let them ſhine by holineſſe of life, as well as by Doctrine, and Crown all their La<g ref="char:EOLhyphen"/>bours with a Garland of ſoules.</p>
+               <p>And remove not, O Fa<g ref="char:EOLhyphen"/>ther, thy Candleſtick from us, for our unworthineſſe of it, and our unthankfullneſſe for it, but Pardon our un<g ref="char:EOLhyphen"/>profitableneſſe
+<pb n="24" facs="tcp:191783:15"/>under it, and teach us to profit more and more. And, O Lord, com<g ref="char:EOLhyphen"/>fort all the children of af<g ref="char:EOLhyphen"/>fliction, ſpeake peace to the wounded and troubled ſpirit, binde up the broken hearted, powre in wine and oyle in<g ref="char:EOLhyphen"/>to their maladies, that the bones which thou haſt bro<g ref="char:EOLhyphen"/>ken, may rejoyce; convert our enemies, and make our wayes ſo to pleaſe thee, that our very enemies may be at peace with us; bleſſe our Re<g ref="char:EOLhyphen"/>lations in conſanguinity, affini<g ref="char:EOLhyphen"/>ty, and Chriſtian friendſhip, that as there is a communion of Saints, ſo we mayſtudy to e<g ref="char:EOLhyphen"/>difie one another, in love and piety, by words and workes.</p>
+               <p>And good Father, ſet us
+<pb n="25" facs="tcp:191783:15"/>higher than our croſſes, and temporall afflictions in this life, helpe us to caſt our care upon thee, who hath promiſed to care for us, and thou that regardeſt ſpar<g ref="char:EOLhyphen"/>rowes, telleſt us, we are of far greater value then ma<g ref="char:EOLhyphen"/>ny ſparrowes.</p>
+               <p>Now Lord, we bleſſe thy good name for all thy Mer<g ref="char:EOLhyphen"/>cies and bleſſings, for deli<g ref="char:EOLhyphen"/>verance from dangers ſeen, and unſeen; for continuance in proſperity, for food and raiment, for life, health, peace, plenty and proſperi<g ref="char:EOLhyphen"/>ty; for family bleſſings, and perſonall favours; we bleſſe thee that we are born in the pale of thy Church, where there is the dew of Heaven,
+<pb n="26" facs="tcp:191783:16"/>and fatneſs of the Earth the meanes of Grace plentifully vouchſafed unto us; O helpe us to walke worthy of theſe thy goings out to us, and teach us the right uſe of all thy pro<g ref="char:EOLhyphen"/>vidence.</p>
+               <p>Accompany us, holy Father, with thy Gracious preſence, order us from day to day, be not far from us, but guide us by thy ſpirit, till thou ſhalt tranſlate us to thy Glory, all which we crave from thee, not for any worthineſs that is in us, but only for thy Son our Sa<g ref="char:EOLhyphen"/>viours ſake, to whom, with thy ſelf and Spirit, be given all Glo<g ref="char:EOLhyphen"/>ry, and thankſgiving, now, and for ever, Amen.</p>
+               <pb facs="tcp:191783:16"/>
+               <p> The ſecond Part. Containing GENERALL And PARTICULAR ADVICE, Touching
+<list>
+                     <item>
+                        <hi>Religion,</hi>
+                     </item>
+                     <item>
+                        <hi>Opinion,</hi>
+                     </item>
+                     <item>
+                        <hi>Morality,</hi>
+                     </item>
+                     <item>
+                        <hi>Government,</hi>
+                     </item>
+                     <item>
+                        <hi>Study,</hi>
+                     </item>
+                     <item>
+                        <hi>Mariage.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb facs="tcp:191783:17"/>
+            <pb n="29" facs="tcp:191783:17"/>
+            <head>The ſecond Part. Containing GENERALL And PARTICULAR ADVICE, Touching
+<list>
+                  <item>
+                     <hi>Religion,</hi>
+                  </item>
+                  <item>
+                     <hi>Opinion,</hi>
+                  </item>
+                  <item>
+                     <hi>Morality,</hi>
+                  </item>
+                  <item>
+                     <hi>Government,</hi>
+                  </item>
+                  <item>
+                     <hi>Duty,</hi>
+                  </item>
+                  <item>
+                     <hi>Mariage.</hi>
+                  </item>
+               </list>
+            </head>
+            <div type="section">
+               <head>RELIGION.</head>
+               <p n="1">1. QUeſtion not the leaſt way, whe<g ref="char:EOLhyphen"/>ther there be a God, or not, nei<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her be curious concerning
+<pb n="30" facs="tcp:191783:18"/>him: <hi>Non nunquam de D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>vera loqui periculum eſt,</hi> &amp;<g ref="char:punc">▪</g> And God is rather known <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what he is not, then what he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p n="2">2. Quarrel not in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> leaſt manner with the Myſte<g ref="char:EOLhyphen"/>ries of Religion, as the Tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nitie, the Generation of th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Son, the Profeſſion of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Holy Ghoſt, but bring <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> humble minde with thee and go not without th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> guide of Faith, and freque<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Prayer.</p>
+               <p n="3">3. Thou art by Profeſſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a Chriſtian, therefore ſit dow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and caſt with thy ſelfe, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou art to
+<list>
+                     <item>Love Things thou Seeſt not,</item>
+                     <item>Believe Things thou Knoweſt not,</item>
+                     <item>Apprehend Things thou Reacheſt not.</item>
+                  </list>
+               </p>
+               <p n="4">
+                  <pb n="31" facs="tcp:191783:18"/> 4. Though the Spirit of God worketh a full perſwa<g ref="char:EOLhyphen"/>ſion in the heart, concern<g ref="char:EOLhyphen"/>ing the things of God, yet outward Arguments are neceſ<g ref="char:EOLhyphen"/>ſary; for, that which gave <hi>Thomas</hi> the Apoſtle an aſſu<g ref="char:EOLhyphen"/>rance of the Truth of Chriſt, was his ſenſery, <hi>Reach hither thy finger, John</hi> 2.27.</p>
+               <p n="5">5. Let your Prayers be fre<g ref="char:EOLhyphen"/>quent, and among your preme<g ref="char:EOLhyphen"/>ditated Petitions, remember to Pray, that God would not lead thee into Temptation, for in theſe laſt dayes, the ſhorter Satans reigne, the ſharper is his rage,</p>
+               <p n="6">6. Oppoſe not any Truth, and be not like the Sea Pie that cannot riſe, except it be by riſing againſt the winde.</p>
+               <p n="7">
+                  <pb n="32" facs="tcp:191783:19"/> 7. In matters of doubt, min<g ref="char:EOLhyphen"/>gle Charity with your Judge<g ref="char:EOLhyphen"/>ment, and temper your zeale with diſcretion.</p>
+               <p n="8">8. Where there are many Sects of Religion, take great heed what thou doeſt, for no<g ref="char:EOLhyphen"/>thing is ſo hard, and charge<g ref="char:EOLhyphen"/>able to keep, as a good Con<g ref="char:EOLhyphen"/>ſcience.</p>
+               <p n="9">9. Remember this ſpeech of one, that ſaid, a good Re<g ref="char:EOLhyphen"/>ligion may be made of the Pa<g ref="char:EOLhyphen"/>piſts Charity, the Puritans Words, and the Proteſtants Faith.</p>
+               <p n="10">10. Read the Bible often, and with Reverence; in doubt<g ref="char:EOLhyphen"/>full matters Conſult the Church, in the pureſt Ages thereof, which is the Pillar and ground of Truth, and the
+<pb n="33" facs="tcp:191783:19"/>Gates of Hell ſhall not pre<g ref="char:EOLhyphen"/>vaile againſt thee.</p>
+               <p n="11">11. Let your judgement be content, rather to wade where you finde footeing, then to ſwim in ſence of Scripture; in the one you ſhall know your grounds, in the other you will foote in uncertainties, or have but a ſandy foundati<g ref="char:EOLhyphen"/>on.</p>
+               <p n="12">12. Deſpiſe not Profeſſion of Holineſſe, but take heed how you truſt it, the Coat of Chriſt is more worne, then the practiſe of him.</p>
+               <p>Keep thy Conſcience free and cleare, and let thy Con<g ref="char:EOLhyphen"/>verſation ſhew it, that if dirt be caſt at thee, it may not ſtick upon thy Reputati<g ref="char:EOLhyphen"/>on.</p>
+               <p n="14">
+                  <pb n="34" facs="tcp:191783:20"/> 14. Have a care of your Carriage in the World, for no action will pleaſe, which com<g ref="char:EOLhyphen"/>eth from one, whoſe Perſon and Profeſſion is diſtaſted.</p>
+               <p n="15">15. If thy Teacher be wicked, looke well to thy ſelfe; for the Teachers error is the Peoples tryall.</p>
+               <p n="16">16. Preaching doth lift up Chriſt more highly then Read<g ref="char:EOLhyphen"/>ing, like ſpice bruiſed or pounded; ſo is the Word of more ſweet ſavour, when it is Preached.</p>
+               <p n="17">17. Milke in the breſt of the Mother, is farr better then Milke in the ſucking-bottle; ſo Sermons, with lively acti<g ref="char:EOLhyphen"/>ons, are farr more edifying then the ſame Repeated.</p>
+               <p n="18">18. Prayer is a moſt pre<g ref="char:EOLhyphen"/>vailing
+<pb n="35" facs="tcp:191783:20"/>Duty, uſe it continu<g ref="char:EOLhyphen"/>ally by your ſelves, but Sol<g ref="char:EOLhyphen"/>lemnly twice a day.</p>
+               <p n="19">19. Take heed of pride, and let the joynts of your converſation be oyled with Humility.</p>
+               <p n="20">20. One bended knee will bend many hearts; but pride is an unwining quality, ma<g ref="char:EOLhyphen"/>king thee to be ſcorned of thy betters, hated by thy e<g ref="char:EOLhyphen"/>qualls, feared by thy inferi<g ref="char:EOLhyphen"/>ours, and beloved of no bo<g ref="char:EOLhyphen"/>dy,</p>
+               <p n="21">21. Avoid ſin, as to thy ſelf, and conſent not to it in others, for tis all one to hold the ſack, and to fill it.</p>
+               <p n="22">22 In all your loſſes, croſſes, &amp; ſickneſſes, ſet Gods Glory be<g ref="char:EOLhyphen"/>fore thine eyes, without much
+<pb n="36" facs="tcp:191783:21"/>contemplation of thy particu<g ref="char:EOLhyphen"/>lar condition; our Saviour gave the giftes of Miracles to his Apoſtles, to cure others, yet could not, or did not cure their own weakneſſe; as St. <hi>Paul, Timothy,</hi> 1 <hi>Tim.</hi> 5.28. nor his own, 2 <hi>Cor.</hi> 1.8.</p>
+               <p n="23">23. Let not dangers or difficulties cauſe thee to neg<g ref="char:EOLhyphen"/>lect Religion, all weather is faire to a willing mind.</p>
+               <p n="24">24. Curious queſtions in Schoole-Divinity do whet the wit, and ſharpen the braine, but dulls Faith, and proves an Enemy to ſoule-edificati<g ref="char:EOLhyphen"/>on.</p>
+               <p n="25">25. Aſcube not to thine own endeavours, for Divine provi<g ref="char:EOLhyphen"/>dence doth act more vigorouſ<g ref="char:EOLhyphen"/>ly, then humane prudence.</p>
+               <p n="26">
+                  <pb n="37" facs="tcp:191783:21"/> 26. Let not the errors of thy Teachers cauſe thee to imitate their vices; they have Treaſure in earthen veſſells, 2 <hi>Cor.</hi> 4.7. and he that will prove a pitcher of clay to be a pot of gold, takes great paines to ſmall purpoſe.</p>
+               <p n="27">27. Be not much wedded to your own opinion, but conſult with men of know<g ref="char:EOLhyphen"/>ledge and Religion, and then be firme and fixed, like the Axle-tree, though the wheeles oft time run forward or back<g ref="char:EOLhyphen"/>ward.</p>
+               <p n="28">28. You may ſerve, or beare office under them, that have aſcended to the Throne by blood-ſhed; for there were ſome in <hi>Nero's</hi> houſe, <hi>Phil.</hi> 4.22. and in <hi>Herods</hi> alſo, <hi>Acts</hi>
+                  <pb n="38" facs="tcp:191783:22"/>13.1. and other inſtances in Scripture.</p>
+               <p n="29">29. Duells are an inventi<g ref="char:EOLhyphen"/>on of the Devill, and againſt Piety and Religion, if thou o<g ref="char:EOLhyphen"/>vercomeſt, thou looſeſt, and gaineſt a ſtinge of Conſci<g ref="char:EOLhyphen"/>ence, ſcarce to be pulled out again.</p>
+               <p n="30">30. As a man that lieth uneaſie, is ſubject to turning and toſ<g ref="char:EOLhyphen"/>ſing, ſo, a man unconſtant in his Principles, is ſoon moved to change.</p>
+               <p n="31">31. In times of change, men account of the Inſtitu<g ref="char:EOLhyphen"/>tion of the Church, as old Coyne, not much better then counters; but ſlight not thou wholſome Doctrine, becauſe of the Generall ble<g ref="char:EOLhyphen"/>miſh it lieth under.</p>
+               <p n="32">
+                  <pb n="36" facs="tcp:191783:22"/> 32. Reverence Antiquity, but conclude it not infallible; yet, take her word ſooner then any particular learning, Doct<g ref="char:EOLhyphen"/>rine being much cleared by experience.</p>
+               <p n="33">33. If God bleſſe thy baſ<g ref="char:EOLhyphen"/>ket, be charitable, though man be unthankfull; for God will have ſome to be ſo, the better to reſerve requitall to himſelfe.</p>
+               <p n="34">34. Marke this, when the Common Wealth fadeth, the Church flouriſheth not, one ſide of the face will not ſmile, when the other frownes.</p>
+               <p n="35">35. 'Tis a vanity to uſe Pomps at Burialls, Mourn<g ref="char:EOLhyphen"/>ers like Crowes devour the Living, under pretenſe of
+<pb n="40" facs="tcp:191783:23"/>Honouring a dead car<g ref="char:EOLhyphen"/>caſe.</p>
+               <p n="36">36. That man deſerves to be forgotten, that hath no<g ref="char:EOLhyphen"/>thing to Regiſter his name, but a grave-ſtone.</p>
+               <p n="37">37. Uſe not Religion as birds do their ſhells, which, while they are hatching, do preſerve them; but, when they are hatched, are bro<g ref="char:EOLhyphen"/>ken, and caſt away.</p>
+               <p n="38">38. Be not given to Acts of Cruelty; for bloody hands have rowing feet.</p>
+               <p n="39">39. How little ſoever thou haſt, get it honeſtly; no good uſeing of any thing, will make amends for the ill get<g ref="char:EOLhyphen"/>ting of it.</p>
+               <p n="40">40. Thou art born in the Pale of the Church, and ſo
+<pb n="41" facs="tcp:191783:23"/>art a viſible Chriſtian; but, content not thy ſelfe with that; many knew <hi>Nathani<g ref="char:EOLhyphen"/>el</hi> to be an <hi>Iſraelite,</hi> but, none but Chriſt could ſay, Behold, an <hi>Iſraelite,</hi> in whom there is no guile.</p>
+               <p n="41">41. Have frequent thoughts of thy death, for life is but like a little bird, that flieth in at one window of the houſe, and goeth out at a<g ref="char:EOLhyphen"/>nother.</p>
+               <p n="42">42. Be eminent in nothing but Religion, Godlineſſe hath the Promiſe of this life, and that which is to come; 1 <hi>Tim.</hi> 4.8.</p>
+               <p n="43">43. While the men of the World hunt after greatneſs, do thou ſtudy goodneſſe,
+<pb n="42" facs="tcp:191783:24"/>it was great Honour that <hi>Paul</hi> giveth <hi>Ephenetus,</hi> that he was the firſt man that embraced the Faith in <hi>Acham, Rom.</hi> 16.5.</p>
+               <p n="44">44. In Adam we loſt three things, Gods
+<list>
+                     <item>1. <hi>Image.</hi>
+                     </item>
+                     <item>2. <hi>Favour.</hi>
+                     </item>
+                     <item>3. <hi>Fellowſhip.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Aſſure thy ſelfe of Chriſt, he is the Image of the Father, that hath purchaſed favour for thee, and fellowſhip with thee.</p>
+               <p n="45">45. I fear that Popery will ſpread again in theſe Nations, trie if your Prin<g ref="char:EOLhyphen"/>ciples
+<pb n="33" facs="tcp:191783:24"/>be ſound in the Faith, profound in Judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>In order to this laſt Advice, obſerve theſe that follow.</p>
+            </div>
+            <div type="section">
+               <pb n="44" facs="tcp:191783:25"/>
+               <head>OPINIONS.</head>
+               <p n="1">1. TAke heed of enter<g ref="char:EOLhyphen"/>taining a new Opini<g ref="char:EOLhyphen"/>on in point of Religion, for, if the paſſions of the minde be ſtrong, they will eaſily ſophiſ<g ref="char:EOLhyphen"/>ticate the underſtanding, and make it apt to believe upon ſlender warrant, and imagine infallible truth, where ſcarce any probable ſhew appear<g ref="char:EOLhyphen"/>eth.</p>
+               <p n="2">2. The <hi>Socinian</hi> Religion is
+<pb n="45" facs="tcp:191783:25"/>to a Triall, ſubtle and light; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Roman</hi> is too earthy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd worldly; embrace, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>old faſt the Reformed Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igion, as the ſoundeſt and ſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt way to Salvation.</p>
+               <p n="3">3. The Religion of the Church of <hi>Rome,</hi> eſpecially of the <hi>Jeſuites,</hi> is imperious, and if they cannot bend others <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o it, they will burn them; but, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f thou canſt warrant thy call, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather die, then denie the Truth.</p>
+               <p n="4">4. The <hi>Millinaries</hi> have ſomething like truth in them, nor were they condem<g ref="char:EOLhyphen"/>ned by any Councell, for three hundred yeares after Chriſt.</p>
+               <p>One M<hi rend="sup">r.</hi> 
+                  <hi>Archer</hi> hath a book of that Opinion, buy it,
+<pb n="39" facs="tcp:191783:26"/>if the Lord bleſs thee, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> obſerve it well.</p>
+               <p n="5">5. The Sciſmatick in Gene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rall, and the Anabaptiſt in par<g ref="char:EOLhyphen"/>ticular, is very fiery, and wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not be contented, unleſſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hath ſuch a Sanctity here o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Earth, which God never tru<g ref="char:EOLhyphen"/>ſted yet out of Heaven <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp;c.</p>
+               <p n="6">6. The Ranters of <hi>Englan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> are the ſame with the famil<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of love, formally, or rather o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the family of luſt.</p>
+               <p n="7">7. The Lutherans, abou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Sacrament of the Suppe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do erre; yet follow thou Lu<g ref="char:EOLhyphen"/>thers Motto, <hi>In quo aliqui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chriſti video, illium dilig<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </p>
+               <p n="8">8. Run not eagerly afte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> new Lights, nor endeavour t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> put them out; for, he tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="37" facs="tcp:191783:26"/>will not quench the ſmoaking of flax, may poſſibly accept of candles, though made of ruſh<g ref="char:EOLhyphen"/>es.</p>
+               <p n="9">9. Be not haſty to oppoſe one of a different opinion from thee; for new opinions rather gain reputation, then looſe it by oppoſition.</p>
+               <p n="10">10. When pretenſes of Re<g ref="char:EOLhyphen"/>ligion are imperious, men car<g ref="char:EOLhyphen"/>ry breſts of ſteele againſt o<g ref="char:EOLhyphen"/>thers of their own Profeſ<g ref="char:EOLhyphen"/>ſion.</p>
+               <p n="11">11. Schiſme, like a flood let out, is only of force, at the firſt opening to drive on de<g ref="char:EOLhyphen"/>ſigns of Innovation; looſing it ſelfe afterward, either out of wearineſſe, or doubt of con<g ref="char:EOLhyphen"/>ſequence.</p>
+               <p n="12">12. If thou haſt attained
+<pb n="48" facs="tcp:191783:27"/>to any perfection in any thing, take heed you blemiſh it not by any abſurditie; for his name that burnt the Temple of <hi>Diana,</hi> outlaſted his that built it.</p>
+            </div>
+            <div type="section">
+               <pb n="49" facs="tcp:191783:27"/>
+               <head>MORALITY.</head>
+               <p n="1">1. TAke heed of wanton neſſe, in word or deed for, the ſnuffe of luſt, goeth out with the ſtinke of loath<g ref="char:EOLhyphen"/>ing.</p>
+               <p n="2">2. Strive not for the upper<g ref="char:EOLhyphen"/>hand with the Phariſees, leaſt thou looſe the right hand of, friendſhip among Chriſtians.</p>
+               <p n="3">3. The Cordiall woundings of a faithfull friend, will keep thee from the wounding cor<g ref="char:EOLhyphen"/>dialls
+<pb n="50" facs="tcp:191783:28"/>of a flattering foe.</p>
+               <p n="4">4. Grieve not for what thou canſt not helpe, for what is paſt cure, ſhould be paſt care.</p>
+               <p n="5">5. If God ſends abundance into thy basket, deny thy ſelf; for neceſſity will teach thee more, then overmuch enjoyed proſperity.</p>
+               <p n="6">6. Go to the houſes of Great men, for, men in Pow<g ref="char:EOLhyphen"/>er eſteem better of ſuch, to whom they have done courte<g ref="char:EOLhyphen"/>ſies, then of thoſe they have received greater from, they looking upon this as a ſhame, the other as an Honour.</p>
+               <p n="7">7. Let nothing unjuſtifiable, dangerous, or, to be conſtrued in an ill ſence, come under your hand, for, ſome time it
+<pb n="51" facs="tcp:191783:28"/>may riſe up in judgement a<g ref="char:EOLhyphen"/>gainſt you, when things ſpo<g ref="char:EOLhyphen"/>ken are forgotten, <hi>Litera ſcripta manet.</hi>
+               </p>
+               <p n="8">8. Speake diſgracefully of no body at Publick Meetings, leſt a friend, or a kinſman be preſent, and heare thee; there<g ref="char:EOLhyphen"/>fore look upon all free diſ<g ref="char:EOLhyphen"/>courſe, as dangerous in mixed companies.</p>
+               <p n="9">9. Tell not to others your vices and infirmities, leaſt you make them cenſorious of your Actions, and judges of your condition.</p>
+               <p n="10">10. Reveale not the pranks of other men to every body, leaſt thou ſell thy friend, and give him an argument of di<g ref="char:EOLhyphen"/>ſtruſt of your fidelity, and ſe<g ref="char:EOLhyphen"/>creſie in other things.</p>
+               <p n="11">
+                  <pb n="52" facs="tcp:191783:29"/> 11. Let your wit ſerve you rather as a buckler to defend you from others, then a ſword to wound them; for a word cuts deeper then a ſharp wea<g ref="char:EOLhyphen"/>pon; and a blow proceedeth from the hand, but a diſ<g ref="char:EOLhyphen"/>gracefull ſpeech from the heart.</p>
+               <p n="12">12. Regard not vaine talke, they are light leaves that do wagg with every winde.</p>
+               <p n="13">13. When thou art inno<g ref="char:EOLhyphen"/>cent, be not afraid of the high language of an inſulting foe; the Sun lookes then biggeſt on the earth, when it is ready to ſet.</p>
+               <p n="14">14. Put not your ſickle into another mans corne, leaſt you cut your fingers.</p>
+               <p n="15">
+                  <pb n="53" facs="tcp:191783:29"/> 15. Burthen not your ſelfe with uſeleſſe notions, no body will carry about with him that key, that will unlock no Trea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p n="16">16. Search for the truth in a matter, before thou ſpeakeſt, and then be bold, for truth may be blamed, but never ſha<g ref="char:EOLhyphen"/>med.</p>
+               <p n="17">17. If thou beeſt a Ten<g ref="char:EOLhyphen"/>nant to any man, conſider who was before you, for, that man will get little with his forke, that ſucceedes him, that went before him with a rake.</p>
+               <p n="18">18. When you write a Let<g ref="char:EOLhyphen"/>ter, ſo write it, as if the Perſon to whom you write it, were preſent with you.</p>
+               <p n="19">19. Have a care that you
+<pb n="54" facs="tcp:191783:30"/>uſe no words, or phraſes, which may be thought to be learned in unlearned company.</p>
+               <p n="20">20. Give Advice, when you are deſired, and continue it no longer, then you ſee 'tis ac<g ref="char:EOLhyphen"/>ceptable.</p>
+               <p n="21">21. Be not accounted an intelligencer, leaſt you come under the odious notion of a ſpie.</p>
+               <p n="22">22. Grant a courteſie when asked, at the firſt, for expe<g ref="char:EOLhyphen"/>dition doubleth the worth of it. <hi>Bis dat qui citò dat.</hi>
+               </p>
+               <p n="23">23. Mend not the Copie of your Maſter, nor contra<g ref="char:EOLhyphen"/>dict his Commands, leaſt you be thought to value your con<g ref="char:EOLhyphen"/>ceipt above his, and ſo be ac<g ref="char:EOLhyphen"/>counted proud.</p>
+               <p n="24">
+                  <pb n="55" facs="tcp:191783:30"/> 24. Write not the faults of Great Perſons in a Letter, leaſt it be intercepted, and you ſent out of the World before your time.</p>
+               <p n="25">25. Weare your cloathes neat, but ſuitable to your for<g ref="char:EOLhyphen"/>tune, leaſt on the one hand you be accounted a ſoven, or on the other, proud, and vain glorious.</p>
+               <p n="26">26. Live frugally at pre<g ref="char:EOLhyphen"/>ſent, that thou mayeſt grap<g ref="char:EOLhyphen"/>ple with what may come here<g ref="char:EOLhyphen"/>after.</p>
+               <p n="27">27. Have a care you med<g ref="char:EOLhyphen"/>dle not with womens quarrels, for womens braules, are mens thralls.</p>
+               <p n="28">28. Let not thy judge<g ref="char:EOLhyphen"/>ment be corrupted by a gift, a bribe may not be ta<g ref="char:EOLhyphen"/>ken,
+<pb n="56" facs="tcp:191783:31"/>a boone may.</p>
+               <p n="29">29. In expenſes, ſpare, when you may, that you may ſpend when you ſhould.</p>
+               <p n="30">30. If anger do boile in your heart, let it not run over in your mouth, open ſcandall doth more hurt then conceal<g ref="char:EOLhyphen"/>ed vice.</p>
+               <p n="31">31. Do not too much enjoy proſperity, for Manna was de<g ref="char:EOLhyphen"/>ſpiſed for variety.</p>
+               <p n="32">32. Be mindfull of recei<g ref="char:EOLhyphen"/>ved curteſies, and, write not good turnes in ſand, and ill turnes in braſs.</p>
+               <p n="33">33. Reverence your Mo<g ref="char:EOLhyphen"/>ther, and, if need be relieve her; love your brothers and ſiſters, remembring that ye are of a piece, and differ from one another in name only.</p>
+               <p n="34">
+                  <pb n="57" facs="tcp:191783:31"/> 34. Take heed you lay not the aſperſion of a witch upon any one, for, we are ſtrangers to the ſecret Malignities of Nature, and madd men in their melancholly extaſies, have had as prodigious con<g ref="char:EOLhyphen"/>feſſions, and geſtures as they.</p>
+               <p n="35">35. At a conference be ſi<g ref="char:EOLhyphen"/>lent a while, to ſpeak laſt is a great advantage, for, thereby ſhall you heare the matter debated, and the ſtrength, or weakneſſe of others Ar<g ref="char:EOLhyphen"/>guments, to guide your ſpeech.</p>
+               <p n="36">36. Deſpiſe none for the meanneſſe of their birth, or poverty of breeding, for true virtue maylodge in a poor Cottage.</p>
+               <p n="37">
+                  <pb n="58" facs="tcp:191783:32"/> 37. Be neither pleaſed nor grieved at reports, the good is enlarged, and the bad quen<g ref="char:EOLhyphen"/>ched, by nothing ſooner then neglect.</p>
+               <p n="38">38. Judge of nothing by the voice of fame, nor deſire it much, for it carrieth a trumpet, which, for the moſt part, gathereth more enemies then friends.</p>
+               <p n="39">39. Provoke not a cow<g ref="char:EOLhyphen"/>ard too farr, leaſt he turne valiant to thy overthrow.</p>
+               <p n="40">40. Take heed what com<g ref="char:EOLhyphen"/>pany you keep, for example prevaileth more then pre<g ref="char:EOLhyphen"/>cepts.</p>
+               <p n="41">41. When you ſpeak to any, look them full in the face, other geſtures do be<g ref="char:EOLhyphen"/>wray want of breeding, con<g ref="char:EOLhyphen"/>fidence,
+<pb n="59" facs="tcp:191783:32"/>or honeſty, and de<g ref="char:EOLhyphen"/>jected, eyes, argue, guilt or folly.</p>
+               <p n="42">42. Ride not haſtily tho<g ref="char:EOLhyphen"/>rough a Town, men do think that either the horſe, or your braines are none of your own.</p>
+               <p n="43">43. Keep a good horſe, it is very uſefull for you, and much may be done that way, to oblige a friend.</p>
+               <p n="44">44. If it may be, ne<g ref="char:EOLhyphen"/>ver buy, but with ready money: and not common<g ref="char:EOLhyphen"/>ly of your friends and ac<g ref="char:EOLhyphen"/>quaintance; for they will take it ill, if you will not be cheated ſome times, to humour them.</p>
+               <p n="45">45. When guilty of a
+<pb n="60" facs="tcp:191783:33"/>fault, ſeeke not to excuſe it by niceties, a fine thred will ſoone be broke in the ſpin<g ref="char:EOLhyphen"/>ning.</p>
+            </div>
+            <div type="section">
+               <pb n="61" facs="tcp:191783:33"/>
+               <head>Concerning GOVERNOURS.</head>
+               <p n="1">1. A wicked man, and a bad Inſtrument, is to be obeyed, Chriſt and his Apo<g ref="char:EOLhyphen"/>ſtles did ſo.</p>
+               <p n="2">2. In bad times tis better to be paſſive, then active; our bleſſed Saviour was never heard to inveigh againſt the preſent Power, though it made the head of <hi>John Baptiſt</hi> to be cut off.</p>
+               <p n="3">
+                  <pb n="62" facs="tcp:191783:34"/> 3. Owne the Power, but not the faults of Magiſtrates, and comply not with them, that under Pretence of Law, would defraud <hi>Naboth</hi> of his Vineyard.</p>
+               <p n="4">4. Forfeit not the truſt which is impoſed upon you, in neither Peace nor Warr, there is none but will befriend vertue, though it be found in Armes againſt him.</p>
+               <p n="5">5. Submit to that Govern<g ref="char:EOLhyphen"/>ment, which Providence hath placed over you, for Conſci<g ref="char:EOLhyphen"/>ence ſake, though of meane beginnings, and neceſſary de<g ref="char:EOLhyphen"/>formities in obtaining the So<g ref="char:EOLhyphen"/>veraignty; <hi>David</hi> from a ſmall riſe, was made a King, and Treaſon it was not to obey him.</p>
+               <p n="6">
+                  <pb n="63" facs="tcp:191783:34"/> 6. Stand not upon your innocency with thoſe that are able to bring the greateſt into a fault, tis no diſhonour to ſubmit to thieves, if fallen in<g ref="char:EOLhyphen"/>to their hands.</p>
+               <p n="7">7. To whom your Perſon muſt be ſubject, let your tongue be ſilent; a fooles tongue will ſometimes or o<g ref="char:EOLhyphen"/>ther cut his head off.</p>
+               <p n="8">8. If you can enjoy your Conſcience, and the deſignes of Gods Glory, queſtion not the Authority of thoſe under whom you do it.</p>
+               <p n="9">9. Conſider all States and Kingdomes had their founda<g ref="char:EOLhyphen"/>tion laid in the dirt; be not therefore miſled in Point of civill obedience, leaſt you make your guide your ſtum<g ref="char:EOLhyphen"/>bling
+<pb n="64" facs="tcp:191783:35"/>block.</p>
+               <p n="11">11. If Religion, in the Pro<g ref="char:EOLhyphen"/>feſſion thereof, be blemiſhed, and Law lie dead, a golden tongue in a prudent head, will have great influence in a Common-Wealth.</p>
+               <p n="11">11. Meddle not with the Powers of a Land, for, he that drawes his ſword againſt his Prince, muſt throw away his ſcabbard.</p>
+               <p n="12">12. What is required by men in Authority, though it be not thanks worthy to grant, yet tis dangerous to de<g ref="char:EOLhyphen"/>ny.</p>
+               <p n="13">13. Cenſure not, nor talke at randome of State Matters, there may be a moath under the Carpet of Council Tables, or a flea may leap into the
+<pb n="65" facs="tcp:191783:35"/>bed chamber of Princes, and theſe are leſſe then the birds which <hi>Solomon</hi> ſpoke of, <hi>Ec<g ref="char:EOLhyphen"/>cleſ.</hi> 10.20.</p>
+            </div>
+            <div type="section">
+               <pb n="66" facs="tcp:191783:36"/>
+               <head>Concerning. STUDY.</head>
+               <p n="1">1. IN the firſt place, ſtudy t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> know God, and call t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> minde that advice of <hi>Davi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> to his Son <hi>Solomon,</hi> 1 <hi>Chro.</hi> 28<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 9. <hi>And, thou my Son, know tho the God of thy Father, and ſerv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> him with a perfect and willin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> minde; if thou ſeekeſt him, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> will be found of thee, if th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> forſakeſt him, he will caſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> off for ever.</hi>
+               </p>
+               <p n="2">
+                  <pb n="67" facs="tcp:191783:36"/> 2. Latin is more neceſſary for you, then your own Mo<g ref="char:EOLhyphen"/>ther tongue, being an univer<g ref="char:EOLhyphen"/>ſall Language, and much Lear<g ref="char:EOLhyphen"/>ning is conveyed in it, apply your ſelfe to the ſtudy of it.</p>
+               <p n="3">3. Good and true writing is part of Grammer, and a bleſ<g ref="char:EOLhyphen"/>ſing which God gave to one of the Tribes of <hi>Iſrael, (viz,) Ze<g ref="char:EOLhyphen"/>bulon, Judg.</hi> 5.14. Practice it dayly, a competent ſubſtance is got by it, and tis very uſefull in a Common-Wealth.</p>
+               <p n="4">4. Arithmatick is a very li<g ref="char:EOLhyphen"/>berall Science, Nature, Rea<g ref="char:EOLhyphen"/>ſon, and Art, freely contribu<g ref="char:EOLhyphen"/>ting to it; of this, I may ſay, what <hi>Solomon</hi> ſpeaketh <hi>Prov.</hi> 22.29. <hi>Seeſt thou a man diligent in his buſineſs, he ſhall ſtand before Kings, he ſhall
+<pb n="68" facs="tcp:191783:37"/>not ſtand before meane men.</hi>
+               </p>
+               <p n="5">5. Have ſome inſpection in Phyſick, that will add to your welcom where ever you come:</p>
+               <p n="6">6. But, do not imagine the diſeaſes you read of, are in he<g ref="char:EOLhyphen"/>rent in your ſelfe, for, that will argue melancholy.</p>
+               <p n="7">7. As for bookes, <hi>ſi non ha<g ref="char:EOLhyphen"/>bes, quos leges, lege quos habes,</hi> few bookes well ſtudied, nuriſh the underſtanding more, then many hundered, which are but gargled in the mouth, as many do.</p>
+               <p n="8">8. Read as much as you can, but, withall conſider, that the more you gather out of books, the poorer you proclaim your Naturall parts.</p>
+               <p n="9">9. Spend no time in difficult trifles and niceties, which, like
+<pb n="69" facs="tcp:191783:37"/>tough meat aske more paines to chew, then they do yield profitable nouriſhment.</p>
+               <p n="10">10. If you make uſe of Po<g ref="char:EOLhyphen"/>etry, let it be rather your re<g ref="char:EOLhyphen"/>creation, then your buſineſſe; for, men of ſound Judgement looke upon it rather as fancy, than ſolid perſwaſion.</p>
+               <p n="11">11. Content your ſelfe with ordinary Invention, for, conſtant exerciſe in any Art, will teach you to attaine ex<g ref="char:EOLhyphen"/>cellent habits.</p>
+               <p n="12">12. Make not Muſicke your ſtudy, for, beſides the unpro<g ref="char:EOLhyphen"/>fitableneſſe of it, it rendreth a man ſuſpected of Levity.</p>
+               <p n="13">13. If thou attaineſt to any proficiency in parts, be humble; no greater ornament to Lear<g ref="char:EOLhyphen"/>ning, than humility.</p>
+               <p n="14">
+                  <pb n="70" facs="tcp:191783:38"/> 14. Leave your bed, when firſt ſleep hath left you, tis ve<g ref="char:EOLhyphen"/>ry ill for your eyes to read ly<g ref="char:EOLhyphen"/>ing, and worſe for the mind, to be a cage of uncleane thoughts.</p>
+               <p n="15">15. Eate not ſo long as you are able, meates in <hi>England,</hi> which do moſt inveagle the ſtomach, are ſtewd up at laſt in great houſes.</p>
+               <p n="16">16. Drinke not while you are hot, unleſſe your drinke be not, rather chew liquoriſh, or take tobacco.</p>
+               <p n="17">17. Let not the Irreligiouſ<g ref="char:EOLhyphen"/>neſſe of any place, cauſe thee to forget thy duty toward God; remember, God heard the Prayer of <hi>Daniel</hi> in <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> as well as <hi>David</hi> in <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>on.</hi>
+               </p>
+               <p n="18">
+                  <pb n="71" facs="tcp:191783:38"/> 18. Diſputation is for the Schooles, and ſhun thou all Diſputes concerning Religion, tis commonly unprofitable, and ſometimes dangerous.</p>
+               <p n="19">19. But, if it be unavoid<g ref="char:EOLhyphen"/>dable, make queries, rather then Arguments, for, a young Student muſt rather learne, then teach.</p>
+               <p n="20">20. Be not curious concer<g ref="char:EOLhyphen"/>ning things that are future, leaſt you render your preſent condition uncomfortable.</p>
+               <p n="21">21. Provide not roome in your breaſt for the paſſion of feares, by a tedious expecta<g ref="char:EOLhyphen"/>tion of what may come; ill fortune, it is as unconſtant as good, and a wet day may be as ſhort, as a faire day is plea<g ref="char:EOLhyphen"/>ſant.</p>
+               <p n="22">
+                  <pb n="72" facs="tcp:191783:39"/> 22. Make not your ſelfe ſtupid, by poring upon deſ<g ref="char:EOLhyphen"/>paire, nor wanton under con<g ref="char:EOLhyphen"/>templation of hope.</p>
+            </div>
+            <div type="section">
+               <pb n="73" facs="tcp:191783:39"/>
+               <head>MARIAGE.</head>
+               <p n="1">1. BE neither a Miſogamiſt, nor a Miſoguniſt, love is a winning quality, but luſt is a deadly ſin.</p>
+               <p n="2">2. Pray for the guift of continency, and if God do give it thee, account it a moſt precious Jewell.</p>
+               <p n="3">3. Mariage is Honoura<g ref="char:EOLhyphen"/>ble in all, but, not all kinde of Mariage; tis lawfull for any to marry, but, not to mar<g ref="char:EOLhyphen"/>ry
+<pb n="74" facs="tcp:191783:40"/>with any, they that marry, muſt marry in the Lord, 1 <hi>Cor.</hi> 7.39.</p>
+               <p n="4">4. Boaſt not of the fa<g ref="char:EOLhyphen"/>voures women beſtow of you, leaſt you be accounted light.</p>
+               <p n="5">5. Fly the embraces of women, and remember <hi>Jo<g ref="char:EOLhyphen"/>ſeph,</hi> leaſt you looſe your li<g ref="char:EOLhyphen"/>berty, ſtrength, and Religion, and turne that to you, which is theirs <hi>(viz.)</hi> to have your will ſubject to them, <hi>Gen.</hi> 3.16.</p>
+               <p n="6">6. Dote not upon beau<g ref="char:EOLhyphen"/>ty, tis the fruit of that Tree, which firſt of all deſtroyed man, and made him ſub<g ref="char:EOLhyphen"/>ject to ſlavery; ſuffering her to command, who, in right rea<g ref="char:EOLhyphen"/>ſon, ought to obey.</p>
+               <p n="7">
+                  <pb n="75" facs="tcp:191783:40"/> 7. Marry not for beauty, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, unendowed handſomneſs, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt you bury your judge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent in ſenſuall affection.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
